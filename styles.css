@@ -330,6 +330,8 @@ section {
     flex-wrap: wrap;
 }
 
+
+
 .stat-card {
     text-align: center;
     background-color: var(--white);
@@ -372,6 +374,7 @@ section {
     width: calc(100% + 1.3px);
     height: 70px;
     fill: var(--white);
+    transform: scaleY(-1);
 }
 
 /* Features Section */
